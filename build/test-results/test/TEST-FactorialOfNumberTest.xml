@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialOfNumberTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-18T18:32:14" hostname="HARI-LENOVA" time="0.05">
+  <properties/>
+  <testcase name="shouldReturnNegativeOneIfNumberIsNegative()" classname="FactorialOfNumberTest" time="0.044"/>
+  <testcase name="shouldReturnOneIfNumberIsZero()" classname="FactorialOfNumberTest" time="0.001"/>
+  <testcase name="shouldReturnFactorialOfNumber()" classname="FactorialOfNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
